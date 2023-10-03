@@ -23,7 +23,7 @@ class MemberServiceIntegrationTest {
     MemberRepository memberRepository;
 
     @Test
-//    @Commit
+//    @Commit db 결과보기 위해서
 
      void join() {
         //given
